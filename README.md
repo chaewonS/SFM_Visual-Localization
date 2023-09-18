@@ -1,4 +1,4 @@
-# Visual-Localization_SFM
+# Visual-Localization_SfM
 
 ### To Do
 - rosbag 파일로 SFM (Structure-From-Motion, 카메라 SLAM) 구현
